@@ -98,6 +98,7 @@ export const Description = styled.div`
     font-size: 24px;
     margin-bottom: 32px;
   }
+
   > p {
     font-size: 20px;
     color: var(--color-gray);
